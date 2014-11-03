@@ -1,0 +1,13 @@
+table.display {
+  width: 100%;
+  border-top-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  border-left-width: 2px;
+  -webkit-border-horizontal-spacing: 10px;
+  -webkit-border-vertical-spacing: 10px;
+}
+
+table td.image {
+  width: 20%;
+}
